@@ -1,0 +1,16 @@
+{
+  "name": "tiny-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --compilers js:babel-core/register"
+  },
+  "author": "Luis R. Palanca",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.11.4",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
